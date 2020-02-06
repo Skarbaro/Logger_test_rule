@@ -1,0 +1,1 @@
+Logger_test_rule
