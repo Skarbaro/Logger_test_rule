@@ -1,1 +1,1 @@
-Logger_test_rule
+test_move_repo
